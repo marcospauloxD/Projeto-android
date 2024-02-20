@@ -188,6 +188,7 @@ aside{
     padding: 10px;
     border-radius: 10px;
     box-shadow: 1px 1px 11px  black;
+    padding-bottom: 10px;
 }
 
 aside > ul{
@@ -203,7 +204,6 @@ aside > h3{
     margin: -10px -10px 0px -10px;
     border-radius: 10px 10px 0px 0px;
 }
-
 aside > li{
     padding-top: 10px;
 }
